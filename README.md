@@ -11,3 +11,5 @@
     python huffman-compressor.py d compressed_filename output_filename 
   
 </ul>
+
+Testowane i działające pod Linuxem.
