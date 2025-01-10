@@ -1,6 +1,6 @@
 # HuffmanCompressor
 
-<h1>Używanie:</h1>
+<h3>Używanie:</h3>
 <ul>
   <li> kompresja </li>
     
